@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class ReusableSexCard extends StatelessWidget {
   ReusableSexCard({@required this.sex, @required this.sexicon});
